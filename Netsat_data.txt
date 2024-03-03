@@ -1,0 +1,73 @@
+------------------------------------------------------
+
+MAJOR: รัฐประศาสนศาสตรบัณฑิต วิชาเอกการจัดการปกครองและกิจการสาธารณะ สมรรถนะด้านคณิตศาสตร์ 
+Thai score: 36 ThaitotalScore : 7.20 
+ English score: 33 EngtotalScore : 11.55 
+ Math score: 40 MathtotalScore : 8.00 
+ Science score: 47.5 ScitotalScore : 11.88 
+ scoreMin : 39.513 
+Total score: 38.62------------------------------------------------------
+
+MAJOR: รัฐประศาสนศาสตรบัณฑิต (การจัดการเมืองและเทคโนโลยีเมือง) สมรรถนะด้านคณิตศาสตร์ 
+Thai score: 36 ThaitotalScore : 7.20 
+ English score: 33 EngtotalScore : 11.55 
+ Math score: 40 MathtotalScore : 8.00 
+ Science score: 47.5 ScitotalScore : 11.88 
+ scoreMin : 35 
+Total score: 38.62------------------------------------------------------
+
+MAJOR: นิติศาสตร์ 
+Thai score: 36 ThaitotalScore : 9.00 
+ English score: 33 EngtotalScore : 8.25 
+ Math score: 40 MathtotalScore : 10.00 
+ Science score: 47.5 ScitotalScore : 11.88 
+ scoreMin : 47.125 
+Total score: 39.12------------------------------------------------------
+
+MAJOR: ศึกษาศาสตรบัณฑิต วิชาเอกคอมพิวเตอร์ศึกษา 
+Thai score: 36 ThaitotalScore : 7.20 
+ English score: 33 EngtotalScore : 8.25 
+ Math score: 40 MathtotalScore : 10.00 
+ Science score: 47.5 ScitotalScore : 14.25 
+ scoreMin : 48.7 
+Total score: 39.70------------------------------------------------------
+
+MAJOR: สถิติและวิทยาการข้อมูล วิชาเอกสถิติศาสตร์ 
+Thai score: 36 ThaitotalScore : 3.60 
+ English score: 33 EngtotalScore : 3.30 
+ Math score: 40 MathtotalScore : 16.00 
+ Science score: 47.5 ScitotalScore : 19.00 
+ scoreMin : 46.3 
+Total score: 41.90------------------------------------------------------
+
+MAJOR: สถิติและวิทยาการข้อมูล วิชาเอกสารสนเทศสถิติและวิทยาการข้อมูล 
+Thai score: 36 ThaitotalScore : 3.60 
+ English score: 33 EngtotalScore : 3.30 
+ Math score: 40 MathtotalScore : 16.00 
+ Science score: 47.5 ScitotalScore : 19.00 
+ scoreMin : 46.9 
+Total score: 41.90------------------------------------------------------
+
+MAJOR: ศึกษาศาสตรบัณฑิต วิชาเอกเดี่ยวการประถมศึกษา 
+Thai score: 36 ThaitotalScore : 9.00 
+ English score: 33 EngtotalScore : 8.25 
+ Math score: 40 MathtotalScore : 10.00 
+ Science score: 47.5 ScitotalScore : 11.88 
+ scoreMin : 57.125 
+Total score: 39.12------------------------------------------------------
+
+MAJOR: บริหารธุรกิจบัณฑิต วิชาเอกผู้ประกอบการดิจิทัล 
+Thai score: 36 ThaitotalScore : 9.00 
+ English score: 33 EngtotalScore : 8.25 
+ Math score: 40 MathtotalScore : 10.00 
+ Science score: 47.5 ScitotalScore : 11.88 
+ scoreMin : 47.250 
+Total score: 39.12------------------------------------------------------
+
+MAJOR: การจัดการธุรกิจบริการและอีเว้นท์ (กลุ่มเรียนภาษาไทยและภาษาอังกฤษ) 
+Thai score: 36 ThaitotalScore : 9.00 
+ English score: 33 EngtotalScore : 13.20 
+ Math score: 40 MathtotalScore : 10.00 
+ Science score: 47.5 ScitotalScore : 4.75 
+ scoreMin : 37.325 
+Total score: 36.95
