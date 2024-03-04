@@ -30,7 +30,7 @@ class Netsat:
     def totalScore(self):
         return format(self.averageThai() + self.averageEng() + self.averageMath() + self.averageSci(),'0.2f')
     def __str__(self):
-        return f"------------------------------------------------------\n\nMAJOR: {self.major} \nThai score: {self.Thai_score} ThaitotalScore : {format(self.averageThai(),'.2f')} \n English score: {self.Eng_score} EngtotalScore : {format(self.averageEng(),'.2f')} \n Math score: {self.math_score} MathtotalScore : {format(self.averageMath(),'.2f')} \n Science score: {self.sci_score} ScitotalScore : {format(self.averageSci(),'.2f')} \n scoreMin : {self.scoreMin} \nTotal score: {self.totalScore()}"
+        return f"\n------------------------------------------------------\n\nMAJOR: {self.major} \nThai score: {self.Thai_score} ThaitotalScore : {format(self.averageThai(),'.2f')} \n English score: {self.Eng_score} EngtotalScore : {format(self.averageEng(),'.2f')} \n Math score: {self.math_score} MathtotalScore : {format(self.averageMath(),'.2f')} \n Science score: {self.sci_score} ScitotalScore : {format(self.averageSci(),'.2f')} \n scoreMin : {self.scoreMin} \nTotal score: {self.totalScore()}"
 
 major = input("Enter major: ")  
 scoreMin = input("Enter minimum score: ")  
